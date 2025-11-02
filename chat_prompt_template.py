@@ -19,5 +19,3 @@ response = model.invoke(prompt)
 
 print(prompt)
 print(response.content)
-
-
